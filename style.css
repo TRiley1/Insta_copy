@@ -1,0 +1,59 @@
+body {
+    background-color: #fff;
+}
+
+button {
+    background-color: #77a7ff;
+
+}
+
+.main-content {
+    display:flex;
+    justify-content: center;
+    padding: 20px 100px;
+}
+
+li {
+    display: inline;
+    font-size: 0.7rem;
+    color: #8e8e8e;
+
+}
+
+li > a {
+    text-decoration: none;
+    color: #8e8e8e
+}
+
+.main-image {
+    width: 400px;
+    height: auto;
+}
+
+.ads {
+    width: 136px;
+    height: 40px
+}
+
+.insta {
+    width: 175px;
+    height: auto;
+}
+
+.login-content {
+    padding: 40px;
+    justify-content: center;
+}
+
+input, button {
+    width:200px
+}
+
+p {
+    text-align: center;
+}
+
+.main-ads {
+    display: flex;
+}
+
