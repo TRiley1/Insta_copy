@@ -23,6 +23,7 @@ li {
 li > a {
     text-decoration: none;
     color: #8e8e8e
+    
 }
 
 .main-image {
@@ -57,3 +58,6 @@ p {
     display: flex;
 }
 
+footer {
+    text-align: center;
+}
